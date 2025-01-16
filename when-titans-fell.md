@@ -65,7 +65,6 @@ As a titan reaper, you are not bound to any single faction. You may align yourse
 - Rules for playing the game
 - Rules and guidelines for titan reaping
 - Extensive bestiary of essence-warped creatures
-- Tools for creating your own settlements and factions
 - Campaign frameworks and adventure hooks
 
 Whether you're delving deep into the rotting heart of a fallen god or navigating the political intrigue of bone cities, this book serves as your guide to surviving in a world where even the gods themselves couldn't escape destruction.
