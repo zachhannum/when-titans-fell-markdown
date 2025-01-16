@@ -146,11 +146,16 @@ Sometimes, fate takes a more dramatic turn—for the better, or worse. When a d2
 
 When you roll a natural 20 on a dice roll, your character gains an unexpected short-term advantage. Choose from one of the following:
 
-**Damage**: Your attack was especially effective. Roll your damage dice again and take the higher amount. 
+**Damage**: Your attack was especially effective. Roll your damage dice again and take the higher amount.
+
 **Help**: Whatever you did aids one of your allies with their next task. Choose one ally: they gain 1 Folly on their next task.
+
 **Insight**: You gain a flash of understanding about the situation. With the GM’s approval, learn one hidden detail, weakness, or opportunity relevant to the current scene.
+
 **Momentum**: Your success carries forward. You gain 1 Favor on your next task if attempted within the same scene.
+
 **Essence Surge**: You tap into a hidden reservoir of power. Gain 1 essence point immediately (up to your maximum).
+
 **Influence**: Your action simply provides some positive effect on the scene. This may or may not manifest as a mechanical advantage, but may provide specific advantages or benefits to the narrative.
 
 ### Disadvantage
@@ -158,7 +163,9 @@ When you roll a natural 20 on a dice roll, your character gains an unexpected sh
 When you roll a natural 1 on a dice roll, your character suffers an unexpected short-term disadvantage. Your character also receives 1 Grit point (See Grit, page XX). The GM chooses one of the following:
 
 **Complication**: Something goes wrong. You gain 1 Folly related to the nature of your failure.
+
 **Essence Leak**: Your connection to titan essence temporarily destabilizes. Lose 1 essence point.
+
 **Influence**: Your action causes some negative effect on the scene. This may or may not manifest as a mechanical disadvantage, but causes some setback to the narrative.
 
 ## Combat
