@@ -2801,6 +2801,202 @@ In the desolate wastelands of Eldraia, the hardy and brave have found ways to ta
 **Veldrake**
 > Commonly known as "Grassrunners," these serpents are often used as mounts in the open fields of Eldraia. They can grow up to 15 feet long and move elegantly through grass and underbrush. Some Veldrakes have been known to exhibit some control over plant life, making them valuable allies for those capable of taming them.
 
+## Essence Corruption
+
+Essence Corruption is a peril that looms over every titan reaper. Prolonged exposure to titan essence can have profound effects on the physical and mental well-being of individuals. The line between mastering titan essence and falling prey to its corrupting influence is a precarious one, and reapers must tread carefully to avoid succumbing to its insidious effects.
+
+### Signs of Corruption
+
+The symptoms of essence corruption vary from individual to individual, but common manifestations include physical mutations, psychological disturbances, and an insatiable hunger for more essence. These signs are often progressive and can worsen with sustained exposure.
+
+**Physical Mutations**: Reapers may exhibit abnormal growths, changes in skin color or texture, or even elemental manifestations such as sparks of electricity or a faint glow emanating from their bodies.
+
+**Psychological Disturbances**: Mental instability can manifest as paranoia, mood swings, hallucinations, or an obsession with acquiring more essence at any cost.
+
+**Essence Cravings**: A craving for essence that becomes increasingly difficult to control, leading to risky behavior or desperate acts to obtain more.
+
+### Corruption Progression
+
+As corruption progresses, it becomes increasingly challenging to reverse its effects. Reapers must be vigilant in monitoring their own well-being and that of their fellow reapers. Left unchecked, severe corruption can lead to irreversible physical deformities, mental deterioration, and an eventual descent into madness.
+
+### Resisting Corruption
+
+The first time a player recovers essence in a day, resisting essence corruption is a difficulty 0 Intellect task. If they recover essence again within the same 24-hour period, each subsequent recovery within the same day increases the difficulty by 1.
+
+After three consecutive successful rolls against resisting corruption, players may move down a level of the corruption track, but any effects they have are permanent (unless otherwise stated).
+
+### Corruption Track
+
+##### Unaffected
+No notable effects.
+
+#### Tinged
+Slight overuse of titan essence may cause minor physical or mental aberrations to manifest. Characters that gain this condition must roll on the [[#Tinged Effects Table|Tinged Effects Table]] to gain a minor physical or mental mutation.
+
+Additionally, while a character has the **tinged** condition:
+
+ -  You gain +2 to your Essence Pool recovery rolls
+
+#### Touched
+Repeated exposure to titan essence at this level starts to impact the character's physiology and psyche more heavily. Characters that gain the **touched** condition must roll on the [[#Touched Effects Table|Touched Effects Table]] to gain a more pronounced mutation.
+
+In addition to the effects of being **tinged**:
+
+ - You suffer a -2 penalty to all Health recovery rolls as your body finds it difficult to recuperate
+ - You Essence pool increases by 5 points
+
+#### Afflicted
+At this stage, corruption becomes hazardous not only to the reaper but also to those around them. Characters that gain the **afflicted** condition must roll on the [[#Afflicted Effects Table|Afflicted Effects Table]] for a severe aberration.
+
+In addition to the effects of being **touched**:
+
+ - All abilities that use essence cost an additional 2 Essence points.
+ - Gain two Favor on all tasks and abilities involving titan essence
+
+#### Eclipsed
+The final stage of corruption is when you have been entirely consumed by titan essence. At this point, you've lost almost all semblance of your former self, both physically and mentally. Characters that reach an **eclipsed** condition have become part of the enduring legacy of the titans—a cautionary tale for future reapers.
+
+In addition to the effects of being **afflicted**:
+
+ - All tasks involving social interaction are hindered by two steps
+ - Your Essence Pool increases by 10 points
+ - You can no longer speak in languages that any living person understands
+ - You no longer need to roll to recover Essence points. At will, you may recover titan essence from motes or titan shards for the full 6 points plus additional modifiers.
+ - You no longer need to make rolls to resist Essence Corruption
+ - For every 24 hours you remain in the Eclipsed condition, make an Mental Defense roll to remain lucid and in control of your character. This starts at a difficulty 4 task and increases by 1 for each 24 hour period. Upon failure, your character has lost all semblance of humanity and becomes unrecoverable.
+
+### Mitigating and Treating Corruption
+
+Recovering from essence corruption is difficult but not impossible. Below are methods by which reapers can attempt to reduce their level on the corruption track:
+
+- **Purification Rituals**: Participating in enclave-sanctioned rituals can cleanse one's body and mind of some corruption, although these rituals are often costly and require rare ingredients.
+- **Essence Fasting**: A prolonged period without using titan essence can gradually reduce corruption levels, though it comes with its own risks, such as withdrawal symptoms and reduced ability to use one's powers.
+- **Arcane Therapies**: Through research and experimentation, enclaves have developed therapies that target essence corruption. However, these therapies are experimental at best, with varying degrees of success.
+- **Artifacts**: Certain items or artifacts have been known to counteract or mitigate essence corruption. These relics are rare and highly sought after, often requiring perilous quests to obtain.
+
+### Corruption Effects Tables
+
+The following tables outline potential effects for each level of the corruption track. Players roll a d20 to determine the manifestation of their corruption. Some effects may be temporary, while others might become permanent fixtures of a character's journey.
+
+#### Tinged Effects Table
+
+Roll a d20 to determine the effect:
+
+| Roll | Effect                                                                                           |
+| ---- | ------------------------------------------------------------------------------------------------ |
+| 1    | Your skin develops a faint iridescent sheen.                                                     |
+| 2    | A subtle glow appears in your eyes when near essence.                                            |
+| 3    | Your dreams are filled with cryptic visions of titans.                                           |
+| 4    | Your skin develops an odd chill to the touch.                                                    |
+| 5    | You get headaches when near large deposits of essence.                                           |
+| 6    | You develop ringing in the ears that comes and goes.                                             |
+| 7    | You regularly have moments of deja vu throughout the day.                                        |
+| 8    | An odd taste lingers in your mouth after using essence.                                          |
+| 9    | Your sleep is restless and broken, marked by whispers on the edge of hearing.                    |
+| 10   | Your temperature sensitivity increases, feeling slightly colder or warmer than usual.            |
+| 11   | Your hair begins to exhibit a subtle static charge.                                              |
+| 12   | Changes in eye color, especially under moonlight.                                                |
+| 13   | Occasionally, shadows seem to linger around you longer than they should.                         |
+| 14   | Nails harden and take on a metallic hue.                                                         |
+| 15   | A single, small horn-like growth appears on your forehead but may be hidden under hair or a hat. |
+| 16   | Plants near you occasionally wilt without reason.                                                |
+| 17   | Your heartbeat occasionally synchronizes with the pulsing of nearby titan essence.               |
+| 18   | Your skin takes on an unnatural hue.                                                             |
+| 19   | You have a persistent minor tremor in your hands that worsens around essence.                    |
+| 20   | You exhale a faint mist in the air, regardless of the actual temperature.                        |
+
+
+#### Touched Effects Table
+
+Roll a d20 to determine the effect:
+
+| Roll | Effect |
+|------|--------|
+| 1   | Your skin sprouts sporadic patches of scales that glisten with essence energy. |
+| 2   | Your voice becomes warped and unsettling, causing unease in those who hear it. |
+| 3   | Your eyes change shape or size subtly on occasion. |
+| 4   | Your ears become pointed or elongated, sensitive to vibrations of titan essence. |
+| 5   | You occasionally emit small sparks of magical energy from your body. |
+| 6   | A craving for raw essence emerges; it's unsettling but manageable—for now. |
+| 7   | Your shadow no longer conforms to the laws of light; it reacts to your emotions instead. |
+| 8   | You sometimes hear others' thoughts when touching titan artifacts or bones. |
+| 9   | The taste of food becomes bland; instead, you yearn for the flavor of pure energy that comes from essence motes. |
+| 10  | Small electrical arcs occasionally jump between your fingers during emotional highs or lows. |
+| 11  | Your breath is visible as swirling colors akin to raw essence vapors—strange and off-putting in conversation. |
+| 12  | Your skin periodically hardens into a stone-like texture, offering protection but limiting your dexterity temporarily. |
+| 13  | An elemental affinity manifests—small flames dance across your skin or frost patterns trace where you touch without harming you (yet). |
+| 14  | Your memories become hazy or fragmented, making it harder for you to recall specific details or events from your past. |
+| 15  | Mirages of entities flicker at the edge of your vision. You think something might be after you. |
+| 16  | You develop an aversion to darkness; shadows seem deeper and more threatening. |
+| 17  | Your voice takes on dual layered tones; one echoes with ancient authority while the other maintains normalcy. |
+| 18  | The presence of titan essence intensifies your emotions to extreme levels, leading to sudden outbursts or mood swings. |
+| 19  | Your body occasionally phases in and out of the spiritual realm, but you can’t seem to control it. |
+| 20  | A ghostly halo hovers above your head at times when titan essence is near, causing a mix of reverence and fear among those who witness it. |
+
+#### Afflicted Effects Table 
+
+Roll a d20 to determine the effect:
+
+| Roll | Effect                                                                                                                                                        |     |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| 1    | Your arms elongate and fingers develop sharp, claw-like nails.                                                                                                |     |
+| 2    | Essence energy visibly pulsates beneath your skin, illuminating your veins in a network of light.                                                             |     |
+| 3    | Parts of your skin harden into chitinous armor plates that provide a natural defense.                                                                         |     |
+| 4    | You have sudden fluency in an ancient language, but no one living seems to recognize or understand it.                                                        |     |
+| 5    | You develop a psychological addiction to essence, feeling withdrawal symptoms if you don't regularly consume it.                                              |     |
+| 6    | Visions plague your waking hours, revealing cataclysmic events or possible futures.                                                                           |     |
+| 8    | Veins beneath your skin glow with ethereal colors that pulse in sync with the nearest titan.                                                                  |     |
+| 9    | Your memories become intertwined with those of titans—visions replaying their final moments and grandeur flicker through your mind's eye at unexpected times. |     |
+| 10   | Your very presence causes flora to bloom in unnatural colors or shapes, their growth patterns mirroring lost languages or forgotten symbols.                  |     |
+| 11   | Your eyes turn pitch black, allowing you to see in complete darkness, but you become extremely sensitive to bright light.                                     |     |
+| 12   | One of your limbs becomes ghostly and translucent, allowing it to pass through solid objects at will.                                                         |     |
+| 13   | You no longer feel the need to sleep.                                                                                                                         |     |
+| 14   | Your body sporadically sprouts patches of moss, lichen, or fungus.                                                                                            |     |
+| 15   | Your blood becomes toxic and corrosive to anything but your own body.                                                                                         |     |
+| 16   | Time seems to distort around you, resulting unpredictable moments where time seems to stretch or compress.                                                    |     |
+| 17   | You inadvertantly siphon essence from objects around you.                                                                                                     |     |
+| 18   | Skeletal wings of titan bone sprout from your back.                                                                                                           |     |
+| 19   | Your skin smolders with an internal fire that can ignite your surroundings.                                                                                   |     |
+| 20   | Tendrils of pure essence extend from your body, twisting and extending towards nearby sources of essence.                                                     |     |
+
+
+#### Eclipsed Effects Table
+
+Roll a d20 to determine the effect:
+
+| Roll | Effect                                                                                                                                                                                         |
+| ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | The craving for essence becomes so overwhelming that it must be consumed immediately upon finding it; will save required to resist the urge. Effect applies only while in the Afflicted state. |
+| 2    | Your touch withers plant life and corrodes metal, leaving trails of decay in your wake.                                                                                                        |
+| 3    | Flames engulf your body without burning you; they flare up in response to your emotions.                                                                                                       |
+| 4    | You have visions of the earth shattering beneath the titans’ fall which are seeping into reality                                                                                               |
+| 5    | The spirit of a fallen titan nudges at the barriers of your mind; you don’t know what will happen if you let it in                                                                             |
+| 6    | Your gaze can petrify living creatures, leaving them frozen in a state between life and death.                                                                                                 |
+| 7    | The titan essence within you fossilized, growing from your skin into sharp, crystalline formations, painfully sharp and unbreakable.                                                           |
+| 8    | The spirits of the dead are drawn to you, whispering secrets and begging for release.                                                                                                          |
+| 9    | An aura of cold darkness envelops you, extinguishing light sources and chilling the bones of those nearby.                                                                                     |
+| 10   | Your heartbeat synchronizes with the nearest titan’s pulse, drawing you to it.                                                                                                                 |
+| 11   | The ground beneath your feet crackles with energy, causing fissures to form and release tendrils of raw essence that writhe like serpents.                                                     |
+| 12   | Your touch infuses life into inanimate objects, causing them to animate and serve your will for a limited time before crumbling into dust.                                                     |
+| 13   | Your form becomes a swirling vortex of essence, making it difficult for others to perceive you clearly.                                                                                        |
+| 14   | At random intervals, your body leaves an echo, duplicating itself for a few moments before the copy dissolves into essence vapor.                                                              |
+| 15   | Your entire body becomes semi-transparent, revealing a swirling galaxy of essence within.                                                                                                      |
+| 16   | Normal food turns to ash in your mouth; you subsist solely on raw titan essence, which you crave above all else.                                                                               |
+| 17   | Anything you touch may randomly transmute into something else—stone to water, metal to dust—as if reality struggles to maintain consistency around you.                                        | 
+| 18   | Your flesh and bone is disintegrated as essence consumes your body entirely, leaving your soul bound to a body of fossilized essence                                                           |
+| 19   | Your mere presence accelerates entropy in nearby objects, causing them to decay or rust within minutes instead of years.                                                                       |
+| 20   | Reality around you fractures; illusions and nightmarish landscapes overlay the world                                                                                                           |
+
+### GM Considerations for Corruption Effects
+
+GMs should use the corruption effects as a way to enhance the narrative and character development within the game. While these effects can provide interesting role-playing opportunities and challenges, GMs should also be mindful of player comfort and boundaries. It's important to discuss with players how they feel about potential body horror or psychological elements and adjust the game accordingly.
+
+Corruption effects should be more than just cosmetic changes—they should have tangible impacts on gameplay and character interactions. For instance, a character with glowing veins might be easier to spot in stealth situations, while one who hears titan thoughts could gain insight into ancient mysteries or even receive cryptic warnings of future events.
+
+The progression of corruption should feel like a natural consequence of a character's actions within the world of Eldraia, rather than a random punishment. Encourage players to explore ways their characters might deal with their corruption, whether through seeking cures, embracing their new abilities, or struggling against the changes to their identities.
+
+Finally, GMs should consider how corruption can tie into larger plot points or themes within the campaign. Perhaps an enclave seeks a cure for corruption that drives the party on a quest, or a rival faction uses corrupted individuals as living weapons.
+
 
 
 
